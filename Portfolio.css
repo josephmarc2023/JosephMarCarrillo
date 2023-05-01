@@ -1,0 +1,37 @@
+body {
+    background-color: #1a1a1a;
+    color: #00ff00; /* neon green */
+  }
+  
+  .header-border {
+    border: 2px solid #00ff00; /* neon green */
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+  }
+  
+  .header-text {
+    text-align: justify;
+  }
+  
+  
+  .section-border {
+    border: 2px solid #39ff14;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #39ff14;
+  }
+  
+  p {
+    color: #a8ff60;
+  }
+  
+  ul li {
+    color: #a8ff60;
+  }
+  
